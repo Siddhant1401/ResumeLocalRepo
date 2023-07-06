@@ -1,12 +1,12 @@
 :root{
 	--background: #c3c0ba;
 	--white: #fff;
-	--one: #f70303;
+	--one: #b6f703;
 	--two: #d8d3d8;
 	--black: #54585d;
 	--process: #a5a5a5;
 }
-*{margin:0px; padding:0px; box-sizing: border-box; font-family: system-ui;}
+*{margin:0px; padding:0px; box-sizing: border-box; font-family: "Times New Roman", Times, serif;}
 body{background: var(--background);}
 .col-div-3{width: 25%; float: left;}
 .col-div-7{width: 75%; float: left;}
